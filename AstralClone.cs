@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-[assembly: MelonInfo(typeof(Astrum.AstralClone), "AstralClone", "0.1.0", downloadLink: "github.com/Astrum-Project/AstralClone")]
+[assembly: MelonInfo(typeof(Astrum.AstralClone), "SaferClone", "0.1.0", downloadLink: "https://github.com/VRChat-is-Awesome/SaferClone")]
 [assembly: MelonGame("VRChat", "VRChat")]
 [assembly: MelonColor(ConsoleColor.DarkMagenta)]
 
